@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var w:Int = 5
-        var mohamedEmadIsgood:Boolean=true
+        var mohamedEmad_Isgood:Boolean=true
     }
 }
