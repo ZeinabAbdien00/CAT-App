@@ -1,4 +1,4 @@
-package com.example.catapp
+package com.example.catapp.UI
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var w:Int = 5
+        var mohamedEmadIsgood:Boolean=true
     }
 }
