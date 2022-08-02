@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        var w:Int = 5
-        var mohamedEmad_Isgood:Boolean=true
+       var newVariable=1
+
     }
 }
