@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         var w:Int = 5
         var mohamedEmadIsgood:Boolean=true
+        var github=true
     }
 }
