@@ -5,9 +5,10 @@
         <item name="colorPrimary">@color/colorPrimaryRed</item>
         <item name="colorPrimaryDark">@android:color/white</item>
         <item name="colorAccent">@color/colorPrimaryRed</item>
+
         <item name="android:navigationBarColor">@android:color/white</item>
 
-        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/white</item>
         <!-- Customize your theme here. -->
     </style>
 
