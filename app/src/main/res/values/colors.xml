@@ -3,4 +3,8 @@
     <color name="colorPrimaryRed">#C2341C</color>
     <color name="colorPrimaryBlue">#276EC4</color>
     <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#D1D1D1</color>
+    <color name="darkGrey">#8F8F93</color>
+
 </resources>
