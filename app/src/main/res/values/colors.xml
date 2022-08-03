@@ -5,7 +5,7 @@
     <color name="black">#FF000000</color>
     <color name="yellow">#FFEB3B</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="grey">#D1D1D1</color>
-    <color name="darkGrey">#8F8F93</color>
+    <color name="colorSecondryGrey">#D1D1D1</color>
+    <color name="colorSecondryDarkGrey">#8F8F93</color>
 
 </resources>

@@ -15,6 +15,8 @@
     <style name="Theme.CATApp.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryRed</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/colorPrimaryRed</item>
     </style>
 
 </resources>
